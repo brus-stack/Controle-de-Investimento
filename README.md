@@ -1,7 +1,7 @@
 # Controle-de-Investimento
 Ferramenta de simulação de investimentos em fundos imobiliários.
 
-# Simulador de Investimentos em Fundos Imobiliários (FII) – Excel
+# Simulador de Investimentos em Fundos Imobiliários – Excel
 
 Este repositório contém a entrega do projeto cujo objetivo é aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários.
 
